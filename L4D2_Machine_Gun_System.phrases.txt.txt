@@ -1,0 +1,636 @@
+"Phrases"
+{
+    // =====[ MENU TITLES ]=====
+    "Menu_Title"
+    {
+        "en"        "Machine Gun System System (13 Types)"
+        "es"        "Sistema de Ametralladoras System (13 Tipos)"
+        "pt"        "Sistema de Metralhadoras System (13 Tipos)"
+        "fr"        "Système de Mitrailleuses System (13 Types)"
+        "de"        "Maschinengewehr-System System (13 Typen)"
+        "ru"        "Система Пулеметов System (13 Типов)"
+        "pl"        "System Karabinów Maszynowych System (13 Typów)"
+        "nl"        "Machinegeweer Systeem System (13 Soorten)"
+        "it"        "Sistema di Mitragliatrici System (13 Tipi)"
+        "hu"        "Géppuska Rendszer System (13 Típus)"
+    }
+    
+    // =====[ MACHINE GUN TYPES ]=====
+    "Type_Simple"
+    {
+        "en"        "Simple"
+        "es"        "Simple"
+        "pt"        "Simples"
+        "fr"        "Simple"
+        "de"        "Einfach"
+        "ru"        "Простой"
+        "pl"        "Prosty"
+        "nl"        "Eenvoudig"
+        "it"        "Semplice"
+        "hu"        "Egyszerű"
+    }
+    
+    "Type_Simple_Gatling"
+    {
+        "en"        "Simple Machine Gun (Gatling)"
+        "es"        "Ametralladora Simple (Gatling)"
+        "pt"        "Metralhadora Simples (Gatling)"
+        "fr"        "Mitrailleuse Simple (Gatling)"
+        "de"        "Einfaches Maschinengewehr (Gatling)"
+        "ru"        "Простой Пулемет (Gatling)"
+        "pl"        "Prosty Karabin Maszynowy (Gatling)"
+        "nl"        "Eenvoudig Machinegeweer (Gatling)"
+        "it"        "Mitragliatrice Semplice (Gatling)"
+        "hu"        "Egyszerű Géppuska (Gatling)"
+    }
+    
+    "Type_Simple_50Cal"
+    {
+        "en"        "Simple Machine Gun (50 Cal)"
+        "es"        "Ametralladora Simple (50 Cal)"
+        "pt"        "Metralhadora Simples (50 Cal)"
+        "fr"        "Mitrailleuse Simple (50 Cal)"
+        "de"        "Einfaches Maschinengewehr (50 Cal)"
+        "ru"        "Простой Пулемет (50 Cal)"
+        "pl"        "Prosty Karabin Maszynowy (50 Cal)"
+        "nl"        "Eenvoudig Machinegeweer (50 Cal)"
+        "it"        "Mitragliatrice Semplice (50 Cal)"
+        "hu"        "Egyszerű Géppuska (50 Cal)"
+    }
+    
+    "Type_Flame"
+    {
+        "en"        "Flame Machine Gun"
+        "es"        "Ametralladora de Fuego"
+        "pt"        "Metralhadora de Fogo"
+        "fr"        "Mitrailleuse à Flammes"
+        "de"        "Flammen-Maschinengewehr"
+        "ru"        "Огненный Пулемет"
+        "pl"        "Karabin Maszynowy Ognisty"
+        "nl"        "Vlam Machinegeweer"
+        "it"        "Mitragliatrice Fiamma"
+        "hu"        "Lángszóró Géppuska"
+    }
+    
+    "Type_Laser"
+    {
+        "en"        "Laser Machine Gun"
+        "es"        "Ametralladora Láser"
+        "pt"        "Metralhadora Laser"
+        "fr"        "Mitrailleuse Laser"
+        "de"        "Laser-Maschinengewehr"
+        "ru"        "Лазерный Пулемет"
+        "pl"        "Karabin Maszynowy Laserowy"
+        "nl"        "Laser Machinegeweer"
+        "it"        "Mitragliatrice Laser"
+        "hu"        "Lézer Géppuska"
+    }
+    
+    "Type_Tesla"
+    {
+        "en"        "Tesla Machine Gun"
+        "es"        "Ametralladora Tesla"
+        "pt"        "Metralhadora Tesla"
+        "fr"        "Mitrailleuse Tesla"
+        "de"        "Tesla-Maschinengewehr"
+        "ru"        "Пулемет Тесла"
+        "pl"        "Karabin Maszynowy Tesla"
+        "nl"        "Tesla Machinegeweer"
+        "it"        "Mitragliatrice Tesla"
+        "hu"        "Tesla Géppuska"
+    }
+    
+    "Type_Freeze"
+    {
+        "en"        "Freeze Machine Gun"
+        "es"        "Ametralladora Congelante"
+        "pt"        "Metralhadora Congelante"
+        "fr"        "Mitrailleuse Glaciale"
+        "de"        "Gefrier-Maschinengewehr"
+        "ru"        "Замораживающий Пулемет"
+        "pl"        "Karabin Maszynowy Zamrażający"
+        "nl"        "Bevriezend Machinegeweer"
+        "it"        "Mitragliatrice Gelida"
+        "hu"        "Fagyasztó Géppuska"
+    }
+    
+    "Type_Nauseating"
+    {
+        "en"        "Nauseating Machine Gun"
+        "es"        "Ametralladora Nauseabunda"
+        "pt"        "Metralhadora Nauseante"
+        "fr"        "Mitrailleuse Nauséabonde"
+        "de"        "Übelkeit erregendes Maschinengewehr"
+        "ru"        "Тошнотворный Пулемет"
+        "pl"        "Karabin Maszynowy Mdłości"
+        "nl"        "Misselijkmakend Machinegeweer"
+        "it"        "Mitragliatrice Nauseante"
+        "hu"        "Undorító Géppuska"
+    }
+    
+    "Type_Plasma"
+    {
+        "en"        "Plasma Machine Gun"
+        "es"        "Ametralladora de Plasma"
+        "pt"        "Metralhadora de Plasma"
+        "fr"        "Mitrailleuse à Plasma"
+        "de"        "Plasma-Maschinengewehr"
+        "ru"        "Плазменный Пулемет"
+        "pl"        "Karabin Maszynowy Plazmowy"
+        "nl"        "Plasma Machinegeweer"
+        "it"        "Mitragliatrice al Plasma"
+        "hu"        "Plazma Géppuska"
+    }
+    
+    "Type_Shadow"
+    {
+        "en"        "Shadow Machine Gun"
+        "es"        "Ametralladora de Sombras"
+        "pt"        "Metralhadora das Sombras"
+        "fr"        "Mitrailleuse d'Ombre"
+        "de"        "Schatten-Maschinengewehr"
+        "ru"        "Теневой Пулемет"
+        "pl"        "Karabin Maszynowy Cienia"
+        "nl"        "Schaduw Machinegeweer"
+        "it"        "Mitragliatrice d'Ombra"
+        "hu"        "Árnyék Géppuska"
+    }
+    
+    "Type_Vortex"
+    {
+        "en"        "Vortex Machine Gun"
+        "es"        "Ametralladora de Vórtice"
+        "pt"        "Metralhadora de Vórtice"
+        "fr"        "Mitrailleuse à Vortex"
+        "de"        "Wirbel-Maschinengewehr"
+        "ru"        "Вихревой Пулемет"
+        "pl"        "Karabin Maszynowy Wiru"
+        "nl"        "Vortex Machinegeweer"
+        "it"        "Mitragliatrice a Vortice"
+        "hu"        "Örvény Géppuska"
+    }
+    
+    "Type_Phase"
+    {
+        "en"        "Phase Machine Gun"
+        "es"        "Ametralladora de Fase"
+        "pt"        "Metralhadora de Fase"
+        "fr"        "Mitrailleuse de Phase"
+        "de"        "Phasen-Maschinengewehr"
+        "ru"        "Фазовый Пулемет"
+        "pl"        "Karabin Maszynowy Fazowy"
+        "nl"        "Fase Machinegeweer"
+        "it"        "Mitragliatrice di Fase"
+        "hu"        "Fázis Géppuska"
+    }
+    
+    "Type_Venom"
+    {
+        "en"        "Venom Machine Gun"
+        "es"        "Ametralladora de Veneno"
+        "pt"        "Metralhadora de Veneno"
+        "fr"        "Mitrailleuse de Venin"
+        "de"        "Gift-Maschinengewehr"
+        "ru"        "Ядовитый Пулемет"
+        "pl"        "Karabin Maszynowy Jadowy"
+        "nl"        "Gif Machinegeweer"
+        "it"        "Mitragliatrice Velenosa"
+        "hu"        "Méreg Géppuska"
+    }
+    
+    "Type_Gravity"
+    {
+        "en"        "Gravity Machine Gun"
+        "es"        "Ametralladora de Gravedad"
+        "pt"        "Metralhadora de Gravidade"
+        "fr"        "Mitrailleuse de Gravité"
+        "de"        "Schwerkraft-Maschinengewehr"
+        "ru"        "Гравитационный Пулемет"
+        "pl"        "Karabin Maszynowy Grawitacyjny"
+        "nl"        "Zwaartekracht Machinegeweer"
+        "it"        "Mitragliatrice Gravitazionale"
+        "hu"        "Gravitációs Géppuska"
+    }
+    
+    "Type_Chaos"
+    {
+        "en"        "Chaos Machine Gun"
+        "es"        "Ametralladora del Caos"
+        "pt"        "Metralhadora do Caos"
+        "fr"        "Mitrailleuse du Chaos"
+        "de"        "Chaos-Maschinengewehr"
+        "ru"        "Пулемет Хаоса"
+        "pl"        "Karabin Maszynowy Chaosu"
+        "nl"        "Chaos Machinegeweer"
+        "it"        "Mitragliatrice del Caos"
+        "hu"        "Káosz Géppuska"
+    }
+    
+    // =====[ MESSAGES ]=====
+    "Msg_Created"
+    {
+        "en"        "Created {type} machine gun!"
+        "es"        "¡Ametralladora {type} creada!"
+        "pt"        "Metralhadora {type} criada!"
+        "fr"        "Mitrailleuse {type} créée !"
+        "de"        "{type}-Maschinengewehr erstellt!"
+        "ru"        "Создан {type} пулемет!"
+        "pl"        "Stworzono karabin maszynowy {type}!"
+        "nl"        "{type} machinegeweer gemaakt!"
+        "it"        "Mitragliatrice {type} creata!"
+        "hu"        "{type} géppuska létrehozva!"
+    }
+    
+    "Msg_Equipped"
+    {
+        "en"        "Machine gun equipped! Use +use to fire, +reload to drop."
+        "es"        "¡Ametralladora equipada! Usa +use para disparar, +reload para soltar."
+        "pt"        "Metralhadora equipada! Use +use para atirar, +reload para soltar."
+        "fr"        "Mitrailleuse équipée ! Utilisez +use pour tirer, +reload pour lâcher."
+        "de"        "Maschinengewehr ausgerüstet! Benutze +use zum Feuern, +reload zum Fallenlassen."
+        "ru"        "Пулемет экипирован! Используйте +use для стрельбы, +reload чтобы бросить."
+        "pl"        "Karabin maszynowy wyposażony! Użyj +use do strzelania, +reload do upuszczenia."
+        "nl"        "Machinegeweer uitgerust! Gebruik +use om te vuren, +reload om te laten vallen."
+        "it"        "Mitragliatrice equipaggiata! Usa +use per sparare, +reload per lasciare."
+        "hu"        "Géppuska felszerelve! Használd a +use-t a tüzeléshez, +reload-ot az eldobáshoz."
+    }
+    
+    "Msg_Dropped"
+    {
+        "en"        "Machine gun dropped!"
+        "es"        "¡Ametralladora soltada!"
+        "pt"        "Metralhadora solta!"
+        "fr"        "Mitrailleuse lâchée !"
+        "de"        "Maschinengewehr fallengelassen!"
+        "ru"        "Пулемет брошен!"
+        "pl"        "Karabin maszynowy upuszczony!"
+        "nl"        "Machinegeweer laten vallen!"
+        "it"        "Mitragliatrice lasciata!"
+        "hu"        "Géppuska eldobva!"
+    }
+    
+    "Msg_Removed"
+    {
+        "en"        "Machine gun removed!"
+        "es"        "¡Ametralladora eliminada!"
+        "pt"        "Metralhadora removida!"
+        "fr"        "Mitrailleuse retirée !"
+        "de"        "Maschinengewehr entfernt!"
+        "ru"        "Пулемет удален!"
+        "pl"        "Karabin maszynowy usunięty!"
+        "nl"        "Machinegeweer verwijderd!"
+        "it"        "Mitragliatrice rimossa!"
+        "hu"        "Géppuska eltávolítva!"
+    }
+    
+    "Msg_Reset"
+    {
+        "en"        "All machine guns have been reset by admin!"
+        "es"        "¡Todas las ametralladoras han sido reiniciadas por el admin!"
+        "pt"        "Todas as metralhadoras foram reiniciadas pelo admin!"
+        "fr"        "Toutes les mitrailleuses ont été réinitialisées par l'admin !"
+        "de"        "Alle Maschinengewehre wurden vom Admin zurückgesetzt!"
+        "ru"        "Все пулеметы были сброшены администратором!"
+        "pl"        "Wszystkie karabiny maszynowe zostały zresetowane przez admina!"
+        "nl"        "Alle machinegeweren zijn gereset door de admin!"
+        "it"        "Tutte le mitragliatrici sono state resettate dall'admin!"
+        "hu"        "Az összes géppuskát visszaállította az admin!"
+    }
+    
+    "Msg_AlreadyHave"
+    {
+        "en"        "You already have a machine gun!"
+        "es"        "¡Ya tienes una ametralladora!"
+        "pt"        "Você já tem uma metralhadora!"
+        "fr"        "Vous avez déjà une mitrailleuse !"
+        "de"        "Du hast bereits ein Maschinengewehr!"
+        "ru"        "У вас уже есть пулемет!"
+        "pl"        "Masz już karabin maszynowy!"
+        "nl"        "Je hebt al een machinegeweer!"
+        "it"        "Hai già una mitragliatrice!"
+        "hu"        "Már van egy géppuskád!"
+    }
+    
+    "Msg_NoAmmo"
+    {
+        "en"        "This machine gun has no ammo!"
+        "es"        "¡Esta ametralladora no tiene munición!"
+        "pt"        "Esta metralhadora não tem munição!"
+        "fr"        "Cette mitrailleuse n'a pas de munitions !"
+        "de"        "Dieses Maschinengewehr hat keine Munition!"
+        "ru"        "У этого пулемета нет патронов!"
+        "pl"        "Ten karabin maszynowy nie ma amunicji!"
+        "nl"        "Dit machinegeweer heeft geen munitie!"
+        "it"        "Questa mitragliatrice non ha munizioni!"
+        "hu"        "Ennek a géppuskának nincs lőszere!"
+    }
+    
+    "Msg_OutOfAmmo"
+    {
+        "en"        "Out of ammo!"
+        "es"        "¡Sin munición!"
+        "pt"        "Sem munição!"
+        "fr"        "Plus de munitions !"
+        "de"        "Keine Munition mehr!"
+        "ru"        "Кончились патроны!"
+        "pl"        "Brak amunicji!"
+        "nl"        "Geen munitie meer!"
+        "it"        "Munizioni esaurite!"
+        "hu"        "Elfogyott a lőszer!"
+    }
+    
+    "Msg_Overheated"
+    {
+        "en"        "Weapon overheated! Waiting to cool down..."
+        "es"        "¡Arma sobrecalentada! Esperando a que se enfríe..."
+        "pt"        "Arma superaquecida! Esperando esfriar..."
+        "fr"        "Arme surchauffée ! En attente de refroidissement..."
+        "de"        "Waffe überhitzt! Warte auf Abkühlung..."
+        "ru"        "Оружие перегрелось! Ожидание охлаждения..."
+        "pl"        "Broń przegrzana! Oczekiwanie na ochłodzenie..."
+        "nl"        "Wapen oververhit! Wachten op afkoeling..."
+        "it"        "Arma surriscaldata! In attesa di raffreddamento..."
+        "hu"        "A fegyver túlmelegedett! Hűtésre vár..."
+    }
+    
+    "Msg_LimitReached"
+    {
+        "en"        "Limit reached for this type! (Max: {limit})"
+        "es"        "¡Límite alcanzado para este tipo! (Máx: {limit})"
+        "pt"        "Limite atingido para este tipo! (Máx: {limit})"
+        "fr"        "Limite atteinte pour ce type ! (Max: {limit})"
+        "de"        "Limit für diesen Typ erreicht! (Max: {limit})"
+        "ru"        "Достигнут лимит для этого типа! (Макс: {limit})"
+        "pl"        "Osiągnięto limit dla tego typu! (Maks: {limit})"
+        "nl"        "Limiet bereikt voor dit type! (Max: {limit})"
+        "it"        "Limite raggiunto per questo tipo! (Max: {limit})"
+        "hu"        "Elérted a limitet ehhez a típushoz! (Max: {limit})"
+    }
+    
+    "Msg_CreateFailed"
+    {
+        "en"        "Failed to create machine gun!"
+        "es"        "¡Error al crear la ametralladora!"
+        "pt"        "Falha ao criar metralhadora!"
+        "fr"        "Échec de la création de la mitrailleuse !"
+        "de"        "Fehler beim Erstellen des Maschinengewehrs!"
+        "ru"        "Не удалось создать пулемет!"
+        "pl"        "Nie udało się stworzyć karabinu maszynowego!"
+        "nl"        "Kon machinegeweer niet maken!"
+        "it"        "Impossibile creare la mitragliatrice!"
+        "hu"        "Nem sikerült létrehozni a géppuskát!"
+    }
+    
+    "Msg_MaxReached"
+    {
+        "en"        "Maximum machine guns reached!"
+        "es"        "¡Máximo de ametralladoras alcanzado!"
+        "pt"        "Máximo de metralhadoras atingido!"
+        "fr"        "Nombre maximum de mitrailleuses atteint !"
+        "de"        "Maximale Anzahl an Maschinengewehren erreicht!"
+        "ru"        "Достигнуто максимальное количество пулеметов!"
+        "pl"        "Osiągnięto maksymalną liczbę karabinów maszynowych!"
+        "nl"        "Maximum aantal machinegeweren bereikt!"
+        "it"        "Raggiunto il numero massimo di mitragliatrici!"
+        "hu"        "Elérted a maximális géppuska számot!"
+    }
+    
+    "Msg_NotMachine"
+    {
+        "en"        "That is not a machine gun from this system!"
+        "es"        "¡Esa no es una ametralladora de este sistema!"
+        "pt"        "Isso não é uma metralhadora deste sistema!"
+        "fr"        "Ce n'est pas une mitrailleuse de ce système !"
+        "de"        "Das ist kein Maschinengewehr aus diesem System!"
+        "ru"        "Это не пулемет из этой системы!"
+        "pl"        "To nie jest karabin maszynowy z tego systemu!"
+        "nl"        "Dat is geen machinegeweer van dit systeem!"
+        "it"        "Questa non è una mitragliatrice di questo sistema!"
+        "hu"        "Ez nem egy géppuska ebből a rendszerből!"
+    }
+    
+    "Msg_TargetNotMachine"
+    {
+        "en"        "Target is not a machine gun!"
+        "es"        "¡El objetivo no es una ametralladora!"
+        "pt"        "O alvo não é uma metralhadora!"
+        "fr"        "La cible n'est pas une mitrailleuse !"
+        "de"        "Ziel ist kein Maschinengewehr!"
+        "ru"        "Цель не является пулеметом!"
+        "pl"        "Cel nie jest karabinem maszynowym!"
+        "nl"        "Doel is geen machinegeweer!"
+        "it"        "Il bersaglio non è una mitragliatrice!"
+        "hu"        "A célpont nem egy géppuska!"
+    }
+    
+    "Msg_NoValidTarget"
+    {
+        "en"        "No valid target!"
+        "es"        "¡No hay objetivo válido!"
+        "pt"        "Nenhum alvo válido!"
+        "fr"        "Aucune cible valide !"
+        "de"        "Kein gültiges Ziel!"
+        "ru"        "Нет подходящей цели!"
+        "pl"        "Brak prawidłowego celu!"
+        "nl"        "Geen geldig doelwit!"
+        "it"        "Nessun bersaglio valido!"
+        "hu"        "Nincs érvényes célpont!"
+    }
+    
+    // =====[ AVAILABLE TYPES LIST ]=====
+    "Types_Header"
+    {
+        "en"        "Available Types:"
+        "es"        "Tipos Disponibles:"
+        "pt"        "Tipos Disponíveis:"
+        "fr"        "Types Disponibles:"
+        "de"        "Verfügbare Typen:"
+        "ru"        "Доступные Типы:"
+        "pl"        "Dostępne Typy:"
+        "nl"        "Beschikbare Soorten:"
+        "it"        "Tipi Disponibili:"
+        "hu"        "Elérhető Típusok:"
+    }
+    
+    "Types_Simple_Desc"
+    {
+        "en"        "Basic machine gun"
+        "es"        "Ametralladora básica"
+        "pt"        "Metralhadora básica"
+        "fr"        "Mitrailleuse de base"
+        "de"        "Basis-Maschinengewehr"
+        "ru"        "Базовый пулемет"
+        "pl"        "Podstawowy karabin maszynowy"
+        "nl"        "Basis machinegeweer"
+        "it"        "Mitragliatrice base"
+        "hu"        "Alap géppuska"
+    }
+    
+    "Types_Flame_Desc"
+    {
+        "en"        "Fire damage, AOE effect"
+        "es"        "Daño de fuego, efecto de área"
+        "pt"        "Dano de fogo, efeito de área"
+        "fr"        "Dégâts de feu, effet de zone"
+        "de"        "Feuerschaden, Flächeneffekt"
+        "ru"        "Огненный урон, эффект по площади"
+        "pl"        "Obrażenia od ognia, efekt obszarowy"
+        "nl"        "Vuurschade, gebiedseffect"
+        "it"        "Danno da fuoco, effetto ad area"
+        "hu"        "Tűz sebzés, területi hatás"
+    }
+    
+    "Types_Laser_Desc"
+    {
+        "en"        "Precision laser beams"
+        "es"        "Rayos láser de precisión"
+        "pt"        "Raios laser de precisão"
+        "fr"        "Rayons laser de précision"
+        "de"        "Präzisionslaserstrahlen"
+        "ru"        "Точные лазерные лучи"
+        "pl"        "Precyzyjne wiązki laserowe"
+        "nl"        "Precisie laserstralen"
+        "it"        "Raggi laser di precisione"
+        "hu"        "Precíziós lézersugarak"
+    }
+    
+    "Types_Tesla_Desc"
+    {
+        "en"        "Electric arcs between enemies"
+        "es"        "Arcos eléctricos entre enemigos"
+        "pt"        "Arcos elétricos entre inimigos"
+        "fr"        "Arcs électriques entre ennemis"
+        "de"        "Lichtbögen zwischen Feinden"
+        "ru"        "Электрические дуги между врагами"
+        "pl"        "Łuki elektryczne między wrogami"
+        "nl"        "Elektrische bogen tussen vijanden"
+        "it"        "Archi elettrici tra nemici"
+        "hu"        "Elektromos ívek ellenségek között"
+    }
+    
+    "Types_Freeze_Desc"
+    {
+        "en"        "Freeze enemies in place"
+        "es"        "Congela enemigos en su lugar"
+        "pt"        "Congela inimigos no lugar"
+        "fr"        "Gèle les ennemis sur place"
+        "de"        "Friert Feinde ein"
+        "ru"        "Замораживает врагов на месте"
+        "pl"        "Zamraża wrogów w miejscu"
+        "nl"        "Bevriest vijanden op hun plaats"
+        "it"        "Congela i nemici sul posto"
+        "hu"        "Lefagyasztja az ellenségeket"
+    }
+    
+    "Types_Nauseating_Desc"
+    {
+        "en"        "Bile effect"
+        "es"        "Efecto de bilis"
+        "pt"        "Efeito de bile"
+        "fr"        "Effet de bile"
+        "de"        "Galleneffekt"
+        "ru"        "Эффект желчи"
+        "pl"        "Efekt żółci"
+        "nl"        "Gal effect"
+        "it"        "Effetto bile"
+        "hu"        "Epe hatás"
+    }
+    
+    "Types_Plasma_Desc"
+    {
+        "en"        "Explosive plasma balls"
+        "es"        "Bolas de plasma explosivas"
+        "pt"        "Bolas de plasma explosivas"
+        "fr"        "Boules de plasma explosives"
+        "de"        "Explosive Plasmakugeln"
+        "ru"        "Взрывные плазменные шары"
+        "pl"        "Eksplozyjne kule plazmowe"
+        "nl"        "Explosieve plasmaballen"
+        "it"        "Palle di plasma esplosive"
+        "hu"        "Robbanó plazmagolyók"
+    }
+    
+    "Types_Shadow_Desc"
+    {
+        "en"        "Darkness damage, blinds enemies"
+        "es"        "Daño de oscuridad, ciega enemigos"
+        "pt"        "Dano das trevas, cega inimigos"
+        "fr"        "Dégâts d'obscurité, aveugle les ennemis"
+        "de"        "Dunkelheitsschaden, blendet Feinde"
+        "ru"        "Темный урон, ослепляет врагов"
+        "pl"        "Obrażenia ciemności, oślepia wrogów"
+        "nl"        "Duisterschade, verblindt vijanden"
+        "it"        "Danno dell'oscurità, acceca i nemici"
+        "hu"        "Sötétség sebzés, vakítja az ellenségeket"
+    }
+    
+    "Types_Vortex_Desc"
+    {
+        "en"        "Creates sucking whirlpools"
+        "es"        "Crea remolinos succionadores"
+        "pt"        "Cria redemoinhos sugadores"
+        "fr"        "Crée des tourbillons aspirants"
+        "de"        "Erzeugt saugende Wirbel"
+        "ru"        "Создает засасывающие водовороты"
+        "pl"        "Tworzy wiry ssące"
+        "nl"        "Creëert zuigende draaikolken"
+        "it"        "Crea vortici aspiranti"
+        "hu"        "Szívó örvényeket hoz létre"
+    }
+    
+    "Types_Phase_Desc"
+    {
+        "en"        "Shots through walls"
+        "es"        "Disparos a través de paredes"
+        "pt"        "Tiros através de paredes"
+        "fr"        "Tirs à travers les murs"
+        "de"        "Schüsse durch Wände"
+        "ru"        "Выстрелы сквозь стены"
+        "pl"        "Strzały przez ściany"
+        "nl"        "Schoten door muren"
+        "it"        "Sparare attraverso i muri"
+        "hu"        "Lövések falakon keresztül"
+    }
+    
+    "Types_Venom_Desc"
+    {
+        "en"        "Poison that spreads"
+        "es"        "Veneno que se propaga"
+        "pt"        "Veneno que se espalha"
+        "fr"        "Poison qui se propage"
+        "de"        "Gift, das sich ausbreitet"
+        "ru"        "Яд, который распространяется"
+        "pl"        "Trujący, który się rozprzestrzenia"
+        "nl"        "Gif dat zich verspreidt"
+        "it"        "Veleno che si diffonde"
+        "hu"        "Méreg, ami terjed"
+    }
+    
+    "Types_Gravity_Desc"
+    {
+        "en"        "Manipulates enemy gravity"
+        "es"        "Manipula la gravedad enemiga"
+        "pt"        "Manipula a gravidade inimiga"
+        "fr"        "Manipule la gravité ennemie"
+        "de"        "Manipuliert die Schwerkraft von Feinden"
+        "ru"        "Манипулирует гравитацией врагов"
+        "pl"        "Manipuluje grawitacją wrogów"
+        "nl"        "Manipuleert vijandelijke zwaartekracht"
+        "it"        "Manipola la gravità nemica"
+        "hu"        "Ellenségek gravitációját manipulálja"
+    }
+    
+    "Types_Chaos_Desc"
+    {
+        "en"        "Random unpredictable effects"
+        "es"        "Efectos aleatorios impredecibles"
+        "pt"        "Efeitos aleatórios imprevisíveis"
+        "fr"        "Effets aléatoires imprévisibles"
+        "de"        "Zufällige unvorhersehbare Effekte"
+        "ru"        "Случайные непредсказуемые эффекты"
+        "pl"        "Losowe nieprzewidywalne efekty"
+        "nl"        "Willekeurige onvoorspelbare effecten"
+        "it"        "Effetti casuali imprevedibili"
+        "hu"        "Véletlenszerű kiszámíthatatlan hatások"
+    }
+}
