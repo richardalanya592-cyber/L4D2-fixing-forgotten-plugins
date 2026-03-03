@@ -1,0 +1,164 @@
+"Phrases"
+{
+	// Witch killed messages
+	"WitchKilled_Title"
+	{
+		"en"		"Witch has been killed"
+		"es"		"La Witch ha sido asesinada"
+		"pt"		"A Bruxa foi morta"
+		"fr"		"La Sorcière a été tuée"
+		"de"		"Die Hexe wurde getötet"
+		"ru"		"Ведьма убита"
+		"pl"		"Wiedźma została zabita"
+		"nl"		"Heks is gedood"
+		"ro"		"Vrăjitoarea a fost ucisă"
+	}
+	
+	"WitchKilled_By"
+	{
+		"en"		"Witch got killed by %s (%d dmg)."
+		"es"		"Witch asesinada por %s (%d dmg)."
+		"pt"		"Bruxa morta por %s (%d dano)."
+		"fr"		"Sorcière tuée par %s (%d dégâts)."
+		"de"		"Hexe getötet von %s (%d Schaden)."
+		"ru"		"Ведьма убита %s (%d урона)."
+		"pl"		"Wiedźma zabita przez %s (%d obrażeń)."
+		"nl"		"Heks gedood door %s (%d schade)."
+		"ro"		"Vrăjitoarea ucisă de %s (%d daune)."
+	}
+	
+	"WitchKilled_Assist"
+	{
+		"en"		"Assist"
+		"es"		"Asistencia"
+		"pt"		"Assistência"
+		"fr"		"Assistance"
+		"de"		"Unterstützung"
+		"ru"		"Помощь"
+		"pl"		"Asysta"
+		"nl"		"Assistentie"
+		"ro"		"Asistență"
+	}
+	
+	"WitchKilled_Assist_Line"
+	{
+		"en"		"|| Assist: %s (%d dmg)"
+		"es"		"|| Asistencia: %s (%d dmg)"
+		"pt"		"|| Assistência: %s (%d dano)"
+		"fr"		"|| Assistance: %s (%d dégâts)"
+		"de"		"|| Unterstützung: %s (%d Schaden)"
+		"ru"		"|| Помощь: %s (%d урона)"
+		"pl"		"|| Asysta: %s (%d obrażeń)"
+		"nl"		"|| Assistentie: %s (%d schade)"
+		"ro"		"|| Asistență: %s (%d daune)"
+	}
+	
+	"WitchKilled_Assist_Multiple"
+	{
+		"en"		", %s (%d dmg)"
+		"es"		", %s (%d dmg)"
+		"pt"		", %s (%d dano)"
+		"fr"		", %s (%d dégâts)"
+		"de"		", %s (%d Schaden)"
+		"ru"		", %s (%d урона)"
+		"pl"		", %s (%d obrażeń)"
+		"nl"		", %s (%d schade)"
+		"ro"		", %s (%d daune)"
+	}
+	
+	"WitchKilled_Damage_Line"
+	{
+		"en"		"[%d] (%d%%) %s"
+		"es"		"[%d] (%d%%) %s"
+		"pt"		"[%d] (%d%%) %s"
+		"fr"		"[%d] (%d%%) %s"
+		"de"		"[%d] (%d%%) %s"
+		"ru"		"[%d] (%d%%) %s"
+		"pl"		"[%d] (%d%%) %s"
+		"nl"		"[%d] (%d%%) %s"
+		"ro"		"[%d] (%d%%) %s"
+	}
+	
+	// Witch health remaining messages
+	"WitchHealth_Remaining"
+	{
+		"en"		"Witch had %d health remaining."
+		"es"		"La Witch tenía %d de vida restante."
+		"pt"		"A Bruxa tinha %d de vida restante."
+		"fr"		"La Sorcière avait %d points de vie restants."
+		"de"		"Die Hexe hatte %d Gesundheit übrig."
+		"ru"		"У ведьмы осталось %d здоровья."
+		"pl"		"Wiedźma miała %d zdrowia pozostałego."
+		"nl"		"Heks had %d gezondheid over."
+		"ro"		"Vrăjitoarea avea %d sănătate rămasă."
+	}
+	
+	// Combine group name (from convar default)
+	"Combine_Group_Name"
+	{
+		"en"		"The Other Survivors"
+		"es"		"Los Otros Supervivientes"
+		"pt"		"Os Outros Sobreviventes"
+		"fr"		"Les Autres Survivants"
+		"de"		"Die Anderen Überlebenden"
+		"ru"		"Другие Выжившие"
+		"pl"		"Inni Ocaleni"
+		"nl"		"De Andere Overlevenden"
+		"ro"		"Ceilalți Supraviețuitori"
+	}
+	
+	// Server bot name
+	"Server_Bot_Name"
+	{
+		"en"		"Server Bot"
+		"es"		"Bot del Servidor"
+		"pt"		"Bot do Servidor"
+		"fr"		"Bot du Serveur"
+		"de"		"Server Bot"
+		"ru"		"Бот Сервера"
+		"pl"		"Bot Serwera"
+		"nl"		"Server Bot"
+		"ro"		"Botul Serverului"
+	}
+	
+	// Short versions for hint/center text
+	"WitchKilled_Title_Short"
+	{
+		"en"		"Witch Killed"
+		"es"		"Witch Asesinada"
+		"pt"		"Bruxa Morta"
+		"fr"		"Sorcière Tuée"
+		"de"		"Hexe Getötet"
+		"ru"		"Ведьма Убита"
+		"pl"		"Wiedźma Zabita"
+		"nl"		"Heks Gedood"
+		"ro"		"Vrăjitoarea Ucisă"
+	}
+	
+	"WitchHealth_Remaining_Short"
+	{
+		"en"		"Witch: %d HP left"
+		"es"		"Witch: %d PV restantes"
+		"pt"		"Bruxa: %d PV restantes"
+		"fr"		"Sorcière: %d PV restants"
+		"de"		"Hexe: %d LP übrig"
+		"ru"		"Ведьма: %d ОЗ осталось"
+		"pl"		"Wiedźma: %d HP zostało"
+		"nl"		"Heks: %d HP over"
+		"ro"		"Vrăjitoarea: %d PV rămase"
+	}
+	
+	// Error messages
+	"Error_NoDamage"
+	{
+		"en"		"[ERROR] No damage data available"
+		"es"		"[ERROR] No hay datos de daño disponibles"
+		"pt"		"[ERRO] Nenhum dado de dano disponível"
+		"fr"		"[ERREUR] Aucune donnée de dégâts disponible"
+		"de"		"[FEHLER] Keine Schadensdaten verfügbar"
+		"ru"		"[ОШИБКА] Нет данных об уроне"
+		"pl"		"[BŁĄD] Brak danych o obrażeniach"
+		"nl"		"[FOUT] Geen schadegegevens beschikbaar"
+		"ro"		"[EROARE] Nu există date despre daune"
+	}
+}
