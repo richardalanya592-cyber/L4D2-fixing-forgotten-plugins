@@ -1,0 +1,79 @@
+"Phrases"
+{
+	// Rescue arrival announcements
+	"RescueArriveInMinutes"
+	{
+		"en"		"Rescue will arrive in {minutes} minutes! Hold out!"
+	}
+	
+	"RescueArriveInMinute"
+	{
+		"en"		"Rescue will arrive in 1 minute! Hold out!"
+	}
+	
+	"RescueTimerSet"
+	{
+		"en"		"Rescue timer set to {minutes} minutes."
+	}
+	
+	"RescueArrived"
+	{
+		"en"		"Rescue vehicle arrived! Let's GO!!!"
+	}
+	
+	// Minute announcements
+	"RescueArrivesInMinutes"
+	{
+		"en"		"Rescue arrives in {minutes} minutes."
+	}
+	
+	"RescueArrivesInMinute"
+	{
+		"en"		"Rescue arrives in 1 minute."
+	}
+	
+	// 10 second alert
+	"TenSecondsRemaining"
+	{
+		"en"		"⚡⚡ 10 SECONDS REMAINING! GET READY! ⚡⚡"
+	}
+	
+	"TenSecondsHint"
+	{
+		"en"		"⚡⚡ 10 SECONDS! ⚡⚡"
+	}
+	
+	// Center text
+	"RescueInCenter"
+	{
+		"en"		"RESCUE IN: {time}"
+	}
+	
+	"RescueArrivedCenter"
+	{
+		"en"		"RESCUE ARRIVED! LET'S GO!"
+	}
+	
+	// Hint text
+	"RescueArrivesInMinutesHint"
+	{
+		"en"		"Rescue arrives in {minutes} minutes!"
+	}
+	
+	"RescueArrivesInSecondsHint"
+	{
+		"en"		"Rescue arrives in {seconds} second{plural}!"
+	}
+	
+	// Chat prefixes
+	"ChatPrefix"
+	{
+		"en"		"[Rescue Arrive]"
+	}
+	
+	// Colors (for reference)
+	// \x04 = Green
+	// \x03 = Orange
+	// \x05 = Light Green
+	// \x01 = Default
+}
